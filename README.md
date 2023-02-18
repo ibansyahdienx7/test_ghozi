@@ -24,7 +24,7 @@ And in the config/app file, change it with the following example: `'url' => env(
 
 ## TESTING 
 
-- [Run in Postman](https://documenter.getpostman.com/view/25222741/2s93CHuFMt).
+- <a href="https://documenter.getpostman.com/view/25222741/2s93CHuFMt" target="_blank">Run in Postman</a>
 ## Guidelines to do the project's
 
 There are several prerequisite apps/packages before making this project, such as: <br>
